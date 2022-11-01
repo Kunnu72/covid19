@@ -9,7 +9,7 @@ body {
 .app {
   display: flex;
   justify-content: space-evenly;
-  background-color: #f5f5f5;
+  background-color: #ded5f3
   padding: 20px;
 }
 
